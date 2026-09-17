@@ -12,8 +12,9 @@ I am a student at RIT who is majoring in Game Design and Development.
 - Design Games
 - Brainstorm Ideas
 
-## My Top 1 Favorite Colors
+## My Top Favorite Colors
 1. Brown
+2. Any other color ever
 
 ## Very Old Youtube Channel
 
