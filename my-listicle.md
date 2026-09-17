@@ -14,3 +14,8 @@ From the video game *Brawl Stars*
 From the YouTube series *ENA*
 ![ENA](https://static.wikia.nocookie.net/enajoelg/images/7/7c/EnaNormal.png/revision/latest?cb=20210215040956)
 [ENA Wiki](https://enajoelg.fandom.com/wiki/Ena_(Animated_Series))
+
+##SPACEMAN SPIFF
+From the comic "Calvin and Hobbes"
+![Spaceman Spiff](https://static.wikia.nocookie.net/candh/images/e/e7/Unknown-5.jpeg/revision/latest?cb=20110320025133)
+[Spaceman Spiff Wiki](https://calvinandhobbes.fandom.com/wiki/Spaceman_Spiff)
