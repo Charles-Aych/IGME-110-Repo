@@ -18,3 +18,5 @@ I am a student at RIT who is majoring in Game Design and Development.
 ## Very Old Youtube Channel
 
 [YouTube Channel](https://www.youtube.com/@CharlesAych)
+
+![Channel Icon](https://yt3.googleusercontent.com/AISkAZAdA4xYwN3k2DSjMPMHSPwN0dd1bD5yRp17wE_9TC7VXDjsB8HHdEAFAGZs7eF2-k2NLA=s160-c-k-c0x00ffffff-no-rj)
