@@ -16,6 +16,11 @@ From the YouTube series *ENA*
 ![ENA](https://static.wikia.nocookie.net/enajoelg/images/7/7c/EnaNormal.png/revision/latest?cb=20210215040956)
 
 ## SPACEMAN SPIFF
-From the comic "Calvin and Hobbes"
+From the comic *Calvin and Hobbes*
 [Spaceman Spiff Wiki](https://calvinandhobbes.fandom.com/wiki/Spaceman_Spiff)
 ![Spaceman Spiff](https://static.wikia.nocookie.net/candh/images/e/e7/Unknown-5.jpeg/revision/latest?cb=20110320025133)
+
+## KNIGHT
+From the video game *TABS (Totally Accurate Battle Simulator)*
+[Knight Wiki](https://totally-accurate-battle-simulator.fandom.com/wiki/Knight)
+![Knight](https://static.wikia.nocookie.net/totally-accurate-battle-simulator/images/b/ba/Blu_Knight.png/revision/latest?cb=20210511064027)
